@@ -1,0 +1,63 @@
+body{
+   margin: auto;
+}
+
+.container{
+
+   display: flex;
+   flex-direction: column 2;
+   margin-top: 15%;
+   margin-left: 10%;
+   margin-right: 10%;
+
+}
+
+.chat1{
+  display: flex;
+  background-color: rgba(234, 234, 234, 0.518);
+  margin: auto;
+  padding: 2%;
+  height: 15em;
+ 
+}
+
+.chat2{
+   display: flex;
+   align-items: flex-end;
+   background-color: rgba(234, 234, 234, 0.518);
+   margin: auto;
+   padding: 2%;
+   height: 15em;
+}
+
+
+.text1{
+   display: flex;
+   align-items: center;
+   color: whitesmoke;
+   background-color: rgba(161, 83, 234, 0.521);
+   border-radius: .5em;
+   padding: 2%;
+   margin-left: 1%;
+   width: 80%;
+   height: 40%;
+
+}
+
+.text2{
+   display: flex;
+   align-items: center;
+   color: whitesmoke;
+   background-color: rgba(87, 87, 216, 0.594);
+   border-radius: .5em;
+   padding: 2%;
+   width: 80%;
+   height:40%
+}
+
+img{
+   display: flex;
+   height: 30%;
+   border-radius:40px;
+   margin: 2%;
+}
